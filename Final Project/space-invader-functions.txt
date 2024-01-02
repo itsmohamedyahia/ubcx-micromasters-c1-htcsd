@@ -1,0 +1,44 @@
+(d) advance-game
+	(d) advance-invaders
+		(d) spawn-invaders
+			(d) rand-dir
+		(d) rand-rate
+		(d) fall-invaders 
+			(d) fall-invader
+				(d) sink-invader
+					(d) stop-invader-x
+				(d) divert-invader
+	(d) advance-missiles
+		(d) rise-missiles
+			(d) rise-missile
+		(d) clean-missiles
+			(d) out-of-bound?
+	(d) clean-game
+		(d) kill-invaders
+			(d) invaders-in-range-missiles?
+				(d) invader-in-range-missile?
+		(d) destroy-missiles
+			(d) missile-in-range-invaders?
+				(d) missile-in-range-invader?
+	(d) advance-tank
+		(d) divert-tank
+		(d) move-tank
+		(d) contain-tank
+	(d) game-over
+		(d) game-over?
+			(d) true?
+			(d) invaders-at-base?
+				(d) invader-at-base?
+(d) render
+	(d) images
+		(d) list-n-imgs
+	(d) posns
+		(d) invaders-posns
+			(d) invader-posn
+		(d) missiles-posns
+			(d) missile-posn
+		(d) tank-posn
+(d) handle-key
+	(d) fire-missile
+	(d) direct-tank
+(d) handle-mouse
