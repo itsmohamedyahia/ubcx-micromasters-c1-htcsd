@@ -1,4 +1,4 @@
-# how-to-code-simple-data-assigments
+# how-to-code-simple-data-assignments
 
 My Solved Assignments of [How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) course on Edx.
 
