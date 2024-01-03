@@ -1,0 +1,3 @@
+[submodule "space-invaders-htcsd"]
+	path = space-invaders-htcsd
+	url = https://github.com/itsmohamedyahia/space-invaders-htcsd

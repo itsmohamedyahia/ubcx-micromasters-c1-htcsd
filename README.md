@@ -57,6 +57,15 @@ Few areas that could be further enhanced for an improved gaming experience:
 ## 🎾 How to view the files?
 
 1. Install racket from [here](https://download.racket-lang.org/).
-2. Open _.rkt_ files
+2. Open the _.rkt_ files
+
+## 🎾 How to play the game?
+
+1. Install racket from [here](https://download.racket-lang.org/).
+2. Open the _.rkt_ file
+3. Press Run
+   [Imgur](https://i.imgur.com/lDFHgRD.png)
+4. Start the game by typing `(main GAME-START)` and press `Enter`
+   [Imgur](https://i.imgur.com/jmp7ENz.png)
 
 If you need any additional info for installation you could check the docs from [here](https://docs.racket-lang.org/pollen/Installation.html).
