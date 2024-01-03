@@ -18,7 +18,7 @@ At the end of the course, I came to appreciate every step in the design process.
 
 ## 🎾 What I learned
 
-- A systematic approach to solve complex problems by breaking them into simpler problems following the [HtDF](https://cs.berry.edu/webdocs-common/csc120/docs/recipes/htdf.html) and [HtDD]([CSC120 - How to Design Data Definitions (HtDD)](https://cs.berry.edu/webdocs-common/csc120/docs/recipes/htdd.html)) recipes.
+- A systematic approach to solve complex problems by breaking them into simpler problems following the [HtDF](https://cs.berry.edu/webdocs-common/csc120/docs/recipes/htdf.html) and [HtDD](https://cs.berry.edu/webdocs-common/csc120/docs/recipes/htdd.html) recipes.
 
 - Test driven development: Writing tests first can serve as examples of the function output in addition to being tests aiding in the function design process.
 
@@ -61,11 +61,13 @@ Few areas that could be further enhanced for an improved gaming experience:
 
 ## 🎾 How to play the game?
 
-1. Install racket from [here](https://download.racket-lang.org/).
-2. Open the _.rkt_ file
-3. Press Run
-   [Imgur](https://i.imgur.com/lDFHgRD.png)
-4. Start the game by typing `(main GAME-START)` and press `Enter`
-   [Imgur](https://i.imgur.com/jmp7ENz.png)
+1. Install DrRacket from [here](https://download.racket-lang.org/).
+2. Go to the final project repo by clicking on `space-invaders-htcsd @ fa38ed4` in the current repo files.
+3. Clone the final project repo or download the `starter.rkt` file
+4. Open the `starter.rkt` in DrRacket.
+5. Press Run
+   ![Imgur](https://i.imgur.com/lDFHgRD.png)
+6. Start the game by typing `(main GAME-START)` in the DrRacket console and press `Enter`
+   ![Imgur](https://i.imgur.com/jmp7ENz.png)
 
 If you need any additional info for installation you could check the docs from [here](https://docs.racket-lang.org/pollen/Installation.html).
